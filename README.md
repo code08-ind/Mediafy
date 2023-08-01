@@ -19,4 +19,4 @@ Mediafy is a web application which is a collection of videos of different catego
 
 ## Preview
 
-Web Application Can Be Viewed By Going To The Link: [! Web Application Link](https://mediafy-app.netlify.app/)
+Web Application Can Be Viewed By Going To The Link: [Web Application Link](https://mediafy-app.netlify.app/)
